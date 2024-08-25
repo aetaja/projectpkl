@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Product 1",
+        "price": 10,
+        "image": "image/seher.jpeg"
+    },
+    {
+        "name": "Product 2",
+        "price": 20,
+        "image": "path/to/image2.jpg"
+    }
+]
